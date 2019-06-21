@@ -1,0 +1,134 @@
+test
+4
+Host Name: Huangmin
+Host Address: w娎?鼿uangmin
+IP_HEADER: ProtocolType:IPPROTO_TCP  PacketID:14322  Length:56  Source:169.254.110.130  Destination:169.254.119.138
+TCP_HEADER: Source:57122  Destination:3000  Seq:64617  Ack:39609
+data:Hello world ...
+
+IP_HEADER: ProtocolType:IPPROTO_TCP  PacketID:12144  Length:40  Source:169.254.119.138  Destination:169.254.110.130
+TCP_HEADER: Source:3000  Destination:57122  Seq:39609  Ack:64617
+data:
+
+IP_HEADER: ProtocolType:IPPROTO_TCP  PacketID:14578  Length:54  Source:169.254.110.130  Destination:169.254.119.138
+TCP_HEADER: Source:57122  Destination:3000  Seq:64617  Ack:39609
+data:169.254.119.13
+
+IP_HEADER: ProtocolType:IPPROTO_TCP  PacketID:12400  Length:40  Source:169.254.119.138  Destination:169.254.110.130
+TCP_HEADER: Source:3000  Destination:57122  Seq:39609  Ack:64617
+data:
+
+IP_HEADER: ProtocolType:IPPROTO_ICMP  PacketID:31815  Length:80  Source:169.254.119.138  Destination:169.254.119.138
+
+IP_HEADER: ProtocolType:IPPROTO_TCP  PacketID:14834  Length:56  Source:169.254.110.130  Destination:169.254.119.138
+TCP_HEADER: Source:57122  Destination:3000  Seq:64617  Ack:39609
+data:Hello world ...
+
+IP_HEADER: ProtocolType:IPPROTO_TCP  PacketID:12656  Length:40  Source:169.254.119.138  Destination:169.254.110.130
+TCP_HEADER: Source:3000  Destination:57122  Seq:39609  Ack:64617
+data:
+
+IP_HEADER: ProtocolType:IPPROTO_TCP  PacketID:15090  Length:54  Source:169.254.110.130  Destination:169.254.119.138
+TCP_HEADER: Source:57122  Destination:3000  Seq:64617  Ack:39609
+data:169.254.119.13
+
+IP_HEADER: ProtocolType:IPPROTO_TCP  PacketID:12912  Length:40  Source:169.254.119.138  Destination:169.254.110.130
+TCP_HEADER: Source:3000  Destination:57122  Seq:39609  Ack:64617
+data:
+
+IP_HEADER: ProtocolType:IPPROTO_TCP  PacketID:15346  Length:56  Source:169.254.110.130  Destination:169.254.119.138
+TCP_HEADER: Source:57122  Destination:3000  Seq:64617  Ack:39609
+data:Hello world ...
+
+IP_HEADER: ProtocolType:IPPROTO_TCP  PacketID:13168  Length:40  Source:169.254.119.138  Destination:169.254.110.130
+TCP_HEADER: Source:3000  Destination:57122  Seq:39609  Ack:64617
+data:
+
+IP_HEADER: ProtocolType:IPPROTO_TCP  PacketID:15602  Length:54  Source:169.254.110.130  Destination:169.254.119.138
+TCP_HEADER: Source:57122  Destination:3000  Seq:64617  Ack:39609
+data:169.254.119.13
+
+IP_HEADER: ProtocolType:IPPROTO_TCP  PacketID:13424  Length:40  Source:169.254.119.138  Destination:169.254.110.130
+TCP_HEADER: Source:3000  Destination:57122  Seq:39609  Ack:64617
+data:
+
+IP_HEADER: ProtocolType:IPPROTO_TCP  PacketID:15858  Length:56  Source:169.254.110.130  Destination:169.254.119.138
+TCP_HEADER: Source:57122  Destination:3000  Seq:64617  Ack:39609
+data:Hello world ...
+
+IP_HEADER: ProtocolType:IPPROTO_TCP  PacketID:13680  Length:40  Source:169.254.119.138  Destination:169.254.110.130
+TCP_HEADER: Source:3000  Destination:57122  Seq:39609  Ack:64617
+data:
+
+IP_HEADER: ProtocolType:IPPROTO_TCP  PacketID:16114  Length:54  Source:169.254.110.130  Destination:169.254.119.138
+TCP_HEADER: Source:57122  Destination:3000  Seq:64617  Ack:39609
+data:169.254.119.13
+
+IP_HEADER: ProtocolType:IPPROTO_TCP  PacketID:13936  Length:40  Source:169.254.119.138  Destination:169.254.110.130
+TCP_HEADER: Source:3000  Destination:57122  Seq:39609  Ack:64617
+data:
+
+IP_HEADER: ProtocolType:IPPROTO_TCP  PacketID:16370  Length:56  Source:169.254.110.130  Destination:169.254.119.138
+TCP_HEADER: Source:57122  Destination:3000  Seq:64617  Ack:39609
+data:Hello world ...
+
+IP_HEADER: ProtocolType:IPPROTO_TCP  PacketID:14192  Length:40  Source:169.254.119.138  Destination:169.254.110.130
+TCP_HEADER: Source:3000  Destination:57122  Seq:39609  Ack:64617
+data:
+
+IP_HEADER: ProtocolType:IPPROTO_TCP  PacketID:16626  Length:54  Source:169.254.110.130  Destination:169.254.119.138
+TCP_HEADER: Source:57122  Destination:3000  Seq:64617  Ack:39609
+data:169.254.119.13
+
+IP_HEADER: ProtocolType:IPPROTO_TCP  PacketID:14448  Length:40  Source:169.254.119.138  Destination:169.254.110.130
+TCP_HEADER: Source:3000  Destination:57122  Seq:39609  Ack:64617
+data:
+
+IP_HEADER: ProtocolType:IPPROTO_TCP  PacketID:16882  Length:56  Source:169.254.110.130  Destination:169.254.119.138
+TCP_HEADER: Source:57122  Destination:3000  Seq:64617  Ack:39609
+data:Hello world ...
+
+IP_HEADER: ProtocolType:IPPROTO_TCP  PacketID:14704  Length:40  Source:169.254.119.138  Destination:169.254.110.130
+TCP_HEADER: Source:3000  Destination:57122  Seq:39609  Ack:64617
+data:
+
+IP_HEADER: ProtocolType:IPPROTO_TCP  PacketID:17138  Length:54  Source:169.254.110.130  Destination:169.254.119.138
+TCP_HEADER: Source:57122  Destination:3000  Seq:64617  Ack:39609
+data:169.254.119.13
+
+IP_HEADER: ProtocolType:IPPROTO_TCP  PacketID:14960  Length:40  Source:169.254.119.138  Destination:169.254.110.130
+TCP_HEADER: Source:3000  Destination:57122  Seq:39609  Ack:64617
+data:
+
+IP_HEADER: ProtocolType:IPPROTO_UDP  PacketID:0  Length:350  Source:0.0.0.0  Destination:255.255.255.255
+
+IP_HEADER: ProtocolType:IPPROTO_TCP  PacketID:17394  Length:56  Source:169.254.110.130  Destination:169.254.119.138
+TCP_HEADER: Source:57122  Destination:3000  Seq:64617  Ack:39609
+data:Hello world ...
+
+IP_HEADER: ProtocolType:IPPROTO_TCP  PacketID:15216  Length:40  Source:169.254.119.138  Destination:169.254.110.130
+TCP_HEADER: Source:3000  Destination:57122  Seq:39609  Ack:64617
+data:
+
+IP_HEADER: ProtocolType:IPPROTO_UDP  PacketID:59230  Length:33  Source:192.168.51.73  Destination:255.255.255.255
+
+IP_HEADER: ProtocolType:IPPROTO_TCP  PacketID:17650  Length:54  Source:169.254.110.130  Destination:169.254.119.138
+TCP_HEADER: Source:57122  Destination:3000  Seq:64617  Ack:39609
+data:169.254.119.13
+
+IP_HEADER: ProtocolType:IPPROTO_TCP  PacketID:15472  Length:40  Source:169.254.119.138  Destination:169.254.110.130
+TCP_HEADER: Source:3000  Destination:57122  Seq:39609  Ack:64617
+data:
+
+IP_HEADER: ProtocolType:IPPROTO_UDP  PacketID:17021  Length:328  Source:0.0.0.0  Destination:255.255.255.255
+
+IP_HEADER: ProtocolType:IPPROTO_UDP  PacketID:17021  Length:328  Source:0.0.0.0  Destination:255.255.255.255
+
+IP_HEADER: ProtocolType:IPPROTO_TCP  PacketID:17906  Length:56  Source:169.254.110.130  Destination:169.254.119.138
+TCP_HEADER: Source:57122  Destination:3000  Seq:64617  Ack:39609
+data:Hello world ...
+
+IP_HEADER: ProtocolType:IPPROTO_TCP  PacketID:15728  Length:40  Source:169.254.119.138  Destination:169.254.110.130
+TCP_HEADER: Source:3000  Destination:57122  Seq:39609  Ack:64617
+data:
+

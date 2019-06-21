@@ -1,0 +1,12 @@
+﻿  main.cpp
+e:\2018\2019_winpcap\networkdatapackets\test_winpcap\ethernet_ii.h(70): warning C4477: “sprintf_s”: 格式字符串“%s”需要类型“char *”的参数，但可变参数 2 拥有了类型“int”
+e:\2018\2019_winpcap\networkdatapackets\test_winpcap\ethernet_ii.h(70): warning C4477: “sprintf_s”: 格式字符串“%s”需要类型“char *”的参数，但可变参数 4 拥有了类型“int”
+e:\2018\2019_winpcap\networkdatapackets\test_winpcap\ethernet_ii.h(70): warning C4477: “sprintf_s”: 格式字符串“%s”需要类型“char *”的参数，但可变参数 6 拥有了类型“int”
+e:\2018\2019_winpcap\networkdatapackets\test_winpcap\ethernet_ii.h(70): warning C4477: “sprintf_s”: 格式字符串“%s”需要类型“char *”的参数，但可变参数 8 拥有了类型“int”
+e:\2018\2019_winpcap\networkdatapackets\test_winpcap\ethernet_ii.h(70): warning C4477: “sprintf_s”: 格式字符串“%s”需要类型“char *”的参数，但可变参数 10 拥有了类型“int”
+e:\2018\2019_winpcap\networkdatapackets\test_winpcap\ethernet_ii.h(70): warning C4473: “sprintf_s”: 没有为格式字符串传递足够的参数
+  e:\2018\2019_winpcap\networkdatapackets\test_winpcap\ethernet_ii.h(70): note: 占位符和其参数预计 12 可变参数，但提供的却是 11 参数
+  e:\2018\2019_winpcap\networkdatapackets\test_winpcap\ethernet_ii.h(70): note: 缺失的可变参数 12 为格式字符串“%s”所需
+e:\2018\2019_winpcap\networkdatapackets\test_winpcap\tcp.h(121): warning C4267: “=”: 从“size_t”转换到“uint8_t”，可能丢失数据
+  Test_Winpcap.vcxproj -> E:\2018\2019_Winpcap\NetworkDataPackets\Debug\Test_Winpcap.exe
+  Test_Winpcap.vcxproj -> E:\2018\2019_Winpcap\NetworkDataPackets\Debug\Test_Winpcap.pdb (Partial PDB)
