@@ -1,3 +1,10 @@
+/*
+	²Î¿¼£ºhttps://blog.csdn.net/Sophisticated_/article/details/83339797
+	https://blog.csdn.net/Sophisticated_/article/details/83339483
+	https://blog.csdn.net/Sophisticated_/article/details/83338772
+	https://www.cnblogs.com/liquan2005/p/9113369.html
+*/
+
 
 #include <stdio.h>
 #include <stdlib.h>
@@ -32,7 +39,7 @@ int main(int argc, char *argv[])
 
 	SOCKET sock;
 	// ³õÊ¼»¯ Raw Socket	IPPROTO_RAW/
-	//AF_INET PF_PACKET
+	//AF_INET AF_NETBIOS
 	if ((sock = socket(AF_INET, SOCK_RAW, IPPROTO_IP)) == INVALID_SOCKET)
 	{
 		printf("Create Socket Failed.\n");
